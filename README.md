@@ -3,7 +3,13 @@
 💻 **Software Engineer | AI Enthusiast | Self-Development Advocate**
 
 I'm passionate about designing clean, scalable systems and bringing ideas to life through code.  
-I have a solid track record of projects built with **Java & Spring Boot**, but I’m comfortable working with any object-oriented programming language.
+
+I’m a **Software Engineering student at Fontys University of Applied Sciences (ICT & Software Engineering)**, where I did a specialization in **Cyber Security** gaining expertise on how to secure a system, and an advanced semester in **Enterprise Software** learning about **scalable architecture, distributed data, and various cloud services**.  
+
+I’ve built a strong portfolio of projects in **Java & Spring Boot**, but I feel at home with any object-oriented programming language.  
+My experience includes an internship at **ASML**—one of the leading tech companies in the Netherlands—and I’m currently interning at **Coca-Cola Europacific Partners (CCEP)** in Australia.  
+Recently, I completed a university project on **Federated Learning AI** for the **European Data Protection Supervisor (EDPS)**.
+
 
 ---
 
