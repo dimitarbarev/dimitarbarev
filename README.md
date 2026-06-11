@@ -1,47 +1,81 @@
-# Hi, I'm Dimitar Barev 👋
+<img src="./assets/guy_peeking.png" width="100%" />
 
-💻 **Software Engineer | AI Enthusiast | Self-Development Advocate**
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Dimitar Barev
+</h1>
 
-I'm passionate about designing clean, scalable systems and bringing ideas to life through code.  
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Software+Engineer;AI+%26+OCR+Systems;Cloud+%26+Distributed+Systems;Public+Speaker" />
+</h3>
 
-I’m a **Software Engineering student at Fontys University of Applied Sciences (ICT & Software Engineering)**, where I did a specialization in **Cyber Security** gaining expertise on how to secure a system, and an advanced semester in **Enterprise Software** learning about **scalable architecture, distributed data, and various cloud services**.  
+<p align="center">
+  <a href="https://portfolio-theta-dun-ejq1lqeyg0.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dimitarbarev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-I’ve built a strong portfolio of projects in **Java & Spring Boot**, but I feel at home with any object-oriented programming language.  
-My experience includes an internship at **ASML**—one of the leading tech companies in the Netherlands—and I’m currently interning at **Coca-Cola Europacific Partners (CCEP)** in Australia.  
-Recently, I completed a university project on **Federated Learning AI** for the **European Data Protection Supervisor (EDPS)**.
+## About Me
 
+- 🔬 Scientific Assistant Intern at **Fraunhofer IAO**, researching OCR benchmarking and AI-powered document processing
+- 🎓 Software Engineering student at **Fontys University of Applied Sciences**
+- ⚙️ Former Software Engineering Intern at **ASML**
+- ☁️ Experience with **Java, Spring Boot, Python, Docker, RabbitMQ, Auth0, CI/CD, Kubernetes, AWS, and Azure**
+- 🏗️ Interested in **Software Architecture, Distributed Systems, AI Systems, OCR, and Applied Research**
+- 🎤 Active Toastmasters speaker and public speaking enthusiast
+- 🏊 Endurance athlete passionate about running, swimming, cycling, and triathlon
 
----
+## Professional Journey
 
-## 🚀 What I Do
-- Build backend services and APIs  
-- Architect solutions with a focus on clarity, maintainability, and performance  
-- Work with modern web technologies (React, Vite)  
-- Containerization & orchestration: **Docker**, **Kubernetes**, **AWS**  
-- Automate builds, tests, security scanning, and deployments (CI/CD)  
-- Share insights about software & growth on [Medium](https://medium.com/@mitkobarev)
+<table align="center">
+  <tr>
+    <td align="center"><strong>2024</strong></td>
+    <td>⚙️ <strong>ASML</strong></td>
+    <td>Software Engineering Intern</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>2025</strong></td>
+    <td>🤖 <strong>CCEP Australia</strong></td>
+    <td>AI Adoption Specialist</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>2026</strong></td>
+    <td>🔬 <strong>Fraunhofer IAO</strong></td>
+    <td>Scientific Assistant</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>2026</strong></td>
+    <td>🎓 <strong>Fontys University</strong></td>
+    <td>Graduating Software Engineering</td>
+  </tr>
+</table>
 
----
+## Featured Projects
 
-## 📝 Recent Writing
-> Sharpening skills through teaching & sharing
+| Project | Description | Tech Stack |
+|----------|-------------|------------|
+| 🧠 OCR Benchmarking Platform | Evaluation and benchmarking platform for OCR models on insurance invoices | Python, OCR, AI, Evaluation Metrics |
+| 🏗️ Dimotion | Collaboration platform built using a microservices architecture | Spring Boot, React, RabbitMQ, Docker |
+| ⚡ ASML Prioritization Library | Java library for priority-based scheduling and request processing | Java, JUnit, Gradle |
+| 🌐 Federated Learning Platform | Distributed AI monitoring and experimentation platform | Python, Azure, Kubernetes |
 
-- [Medium Profile →](https://medium.com/@mitkobarev)
+## Languages & Tools
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,cs,react,js,ts,docker,kubernetes,aws,azure,mysql,postgres,git,github,githubactions,linux" />
+</p>
 
-## 🌱 Interests
-- Artificial Intelligence & practical ML  
-- Self-development & productivity  
-- Public speaking, dance, and endurance sports
+## Currently Exploring
 
----
+- 🤖 Agentic AI Systems
+- 📄 OCR and Intelligent Document Processing
+- ☁️ Cloud Native Architectures
+- 📊 AI Evaluation Frameworks
+- 🏗️ Software Architecture & Distributed Systems
 
-## 📫 Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/dimitarbarev)  
-- [GitHub](https://github.com/dimitarbarev)  
-- [Medium](https://medium.com/@mitkobarev)
+## Connect With Me
 
----
+<img src="./assets/ciao_guy.png" width="100%" />
 
-⭐️ _Thanks for stopping by! Feel free to explore my repositories or connect with me._
+<p align="center">
+  <a href="https://portfolio-theta-dun-ejq1lqeyg0.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/dimitarbarev">LinkedIn</a>
+</p>
